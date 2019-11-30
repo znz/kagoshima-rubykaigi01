@@ -149,4 +149,5 @@ Regexp.union(/dogs/, /cats/i)
 - 間違いなどを見つけたら
   <https://github.com/rurema/doctree>
 - もっと気軽に確認したいなら
-  <https://ruby-jp.github.io/> ruby-jp Slack
+  <https://ruby-jp.github.io/>
+  ruby-jp Slack の #rurema など
